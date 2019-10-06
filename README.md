@@ -15,3 +15,5 @@ Test data:
 - Class 1 -> 390 samples
 
 Classification results obtained: 84.24%
+
+Data downloaded from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
